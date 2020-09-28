@@ -24,5 +24,5 @@
 [CSS]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [JS]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [JQuery]: https://jquery.com/
-[UMD_Presentation_Registration]: https://m18e-commerce.000webhostapp.com/p_registration/
+[UMD_Presentation_Registration]: https://mp-creates-umdregistrationpage.herokuapp.com/
 
